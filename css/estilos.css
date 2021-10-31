@@ -7,3 +7,10 @@ body{
 .container{
     font-size: 15px;
 }
+
+.cabecera{
+    background-color: blue;
+    box-shadow: 3px;
+    color:white;
+    font-size: 40px;
+}
