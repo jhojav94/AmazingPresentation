@@ -10,3 +10,4 @@ La lista de opciones que se tiene son las siguientes:
 
 Creado por the amazing team
 Incluye lista de proyectos de jrv y rav
+Disponible para todas las plataformas
